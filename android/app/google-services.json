@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971602190698",
+    "project_id": "egr425-lab-455002",
+    "storage_bucket": "egr425-lab-455002.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971602190698:android:b06cf7f34acfb053df4513",
+        "android_client_info": {
+          "package_name": "com.example.plant_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB259yFYyeV-EOf1pJ1Jttpjh6InWuFNpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
